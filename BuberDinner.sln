@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Api", "BuberDinner.Api\BuberDinner.Api.csproj", "{81A52B9C-08F8-4E78-B19C-CB1360467982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Application", "BuberDinner.Application\BuberDinner.Application.csproj", "{D78A7344-2699-47CA-83D3-B8ED6D1F5C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Contracts", "BuberDinner.Contracts\BuberDinner.Contracts.csproj", "{97F5A29D-6747-43E5-BC73-5994FB974AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Domain", "BuberDinner.Domain\BuberDinner.Domain.csproj", "{7A304AAF-0020-4811-BFED-03DDB2A38472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuberDinner.Infrastructure", "BuberDinner.Infrastructure\BuberDinner.Infrastructure.csproj", "{50980BDA-7A43-41CB-936A-7047F2AC0BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A52B9C-08F8-4E78-B19C-CB1360467982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A52B9C-08F8-4E78-B19C-CB1360467982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A52B9C-08F8-4E78-B19C-CB1360467982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A52B9C-08F8-4E78-B19C-CB1360467982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78A7344-2699-47CA-83D3-B8ED6D1F5C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78A7344-2699-47CA-83D3-B8ED6D1F5C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78A7344-2699-47CA-83D3-B8ED6D1F5C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78A7344-2699-47CA-83D3-B8ED6D1F5C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F5A29D-6747-43E5-BC73-5994FB974AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F5A29D-6747-43E5-BC73-5994FB974AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F5A29D-6747-43E5-BC73-5994FB974AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F5A29D-6747-43E5-BC73-5994FB974AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A304AAF-0020-4811-BFED-03DDB2A38472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A304AAF-0020-4811-BFED-03DDB2A38472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A304AAF-0020-4811-BFED-03DDB2A38472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A304AAF-0020-4811-BFED-03DDB2A38472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50980BDA-7A43-41CB-936A-7047F2AC0BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50980BDA-7A43-41CB-936A-7047F2AC0BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50980BDA-7A43-41CB-936A-7047F2AC0BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50980BDA-7A43-41CB-936A-7047F2AC0BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
